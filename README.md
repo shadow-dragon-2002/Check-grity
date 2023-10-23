@@ -1,2 +1,8 @@
 # Check-grity
-A simple python GUI program to check and compare file hashes.
+
+A simple Python program with GUI to check and compare file hashes. Currently supports MD5 and SHA256 hashes.
+
+## How to install :
+
+* Using CLI copy paste the following command into the terminal to clone the repository.
+
