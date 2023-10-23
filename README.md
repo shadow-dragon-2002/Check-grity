@@ -2,7 +2,9 @@
 
 A simple Python program with GUI to check and compare file hashes. Currently supports MD5 and SHA256 hashes. This program can be used to do basic integrity checks or to verify files which have been edited.
 
+### GUI:
 
+![GUI](https://github.com/shadow-dragon-2002/Check-grity/blob/main/Check-grity_GUI.png?raw=true)
 
 ### How to use :
 
